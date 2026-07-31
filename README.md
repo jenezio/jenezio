@@ -21,11 +21,11 @@ Desenvolvedor BackendTenho 20 anos e curso o 6º semestre de Engenharia de Softw
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jenezio&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </p>🚀 Projetos
 JB Laticínios: Sistema desktop para gestão de laticínios desenvolvido com Java, JavaFX e MySQL, utilizando JPA/Hibernate e Apache PDFBox para relatórios.
-Trinort Web: Landing page institucional desenvolvida com HTML5, CSS3 e JavaScript.
+Trinort Web: Landing page institucional desenvolvida com HTML5, CSS3 e JavaScript. <br>
 📚 Atualmente Aprendendo
 Aprofundamento em ecossistema Spring (Security, Data, Cloud).
 Padrões de projeto e Arquitetura de Software.
-Aperfeiçoamento do Inglês.
+Aperfeiçoamento do Inglês. <br>
 📫 Contato
 Email: jeneziosantosac@gmail.com
 LinkedIn: Jenézio Santos
