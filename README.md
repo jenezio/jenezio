@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Jenézio Santos
-Desenvolvedor BackendTenho 20 anos e curso o 6º semestre de Engenharia de Software na UNIFAN (Faculdade Nobre). Sou apaixonado pelo desenvolvimento backend e pela resolução de problemas complexos, com foco sólido em Java, Spring Boot e MySQL.<p align="left">
+Desenvolvedor Backend <br> Me chamo Jenézio, tenho 20 anos e curso o 6º semestre de Engenharia de Software na UNIFAN. Sou apaixonado pelo desenvolvimento backend e pela resolução de problemas complexos, com foco em Java, Spring Boot e MySQL.<p align="left">
 <a href="https://www.linkedin.com/in/jenézio-santos-70b40037a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 </a>
