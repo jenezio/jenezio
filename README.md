@@ -19,14 +19,14 @@ Desenvolvedor BackendTenho 20 anos e curso o 6º semestre de Engenharia de Softw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="left" width="30px" style="padding-right: 10px;" /><br/><br/>📊 Estatísticas<p align="left">
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=jenezio&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;hide_border=true" />
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jenezio&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
-</p>🚀 Projetos
-JB Laticínios: Sistema desktop para gestão de laticínios desenvolvido com Java, JavaFX e MySQL, utilizando JPA/Hibernate e Apache PDFBox para relatórios.
+</p>🚀 Projetos <br>
+JB Laticínios: Sistema desktop para gestão de laticínios desenvolvido com Java, JavaFX e MySQL, utilizando JPA/Hibernate e Apache PDFBox para relatórios.<br>
 Trinort Web: Landing page institucional desenvolvida com HTML5, CSS3 e JavaScript. <br>
-📚 Atualmente Aprendendo
-Aprofundamento em ecossistema Spring (Security, Data, Cloud).
-Padrões de projeto e Arquitetura de Software.
+📚 Atualmente Aprendendo <br>
+Aprofundamento em ecossistema Spring (Security, Data, Cloud). <br>
+Padrões de projeto e Arquitetura de Software.<br>
 Aperfeiçoamento do Inglês. <br>
-📫 Contato
-Email: jeneziosantosac@gmail.com
-LinkedIn: Jenézio Santos
-Telefone: (74) 99954-4463
+📫 Contato <br>
+Email: jeneziosantosac@gmail.com <br>
+LinkedIn: Jenézio Santos <br>
+Telefone: (74) 99954-4463 <br>
